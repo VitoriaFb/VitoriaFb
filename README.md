@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Vitoria 😁
+## Bem-vindo(a) ao perfil da Vitória 😁
 
  <div>
    <a href="https://github.com/VitoriaFb>
